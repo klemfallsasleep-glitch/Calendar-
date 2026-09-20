@@ -1,0 +1,250 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:MMIS
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:55009862
+DTSTAMP:20260914T051500Z
+DTSTART:20260914T051500Z
+DTEND:20260914T064500Z
+SUMMARY:пр. Практикум по культуре речевого общения (английский язык)
+LOCATION:3411
+DESCRIPTION:Преподаватель Дмитриева Марина Ивановна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009863
+DTSTAMP:20260914T065500Z
+DTSTART:20260914T065500Z
+DTEND:20260914T082500Z
+SUMMARY:пр. Лексика педагогического общения (на английском языке)
+LOCATION:3406
+DESCRIPTION:Преподаватель Дмитриева Марина Ивановна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009864
+DTSTAMP:20260915T051500Z
+DTSTART:20260915T051500Z
+DTEND:20260915T064500Z
+SUMMARY:сем Методика обучения иностранным языкам
+LOCATION:3104*
+DESCRIPTION:Преподаватель Бурла Анна Владимировна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009865
+DTSTAMP:20260915T065500Z
+DTSTART:20260915T065500Z
+DTEND:20260915T082500Z
+SUMMARY:пр. Практикум по культуре речевого общения (английский язык)
+LOCATION:3313*
+DESCRIPTION:Преподаватель Дмитриева Марина Ивановна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009866
+DTSTAMP:20260915T135000Z
+DTSTART:20260915T135000Z
+DTEND:20260915T152000Z
+SUMMARY:лек Лингвострановедение
+LOCATION:Вирт.зал 25
+DESCRIPTION:Преподаватель Поспелова Юлия Юрьевна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009867
+DTSTAMP:20260916T065500Z
+DTSTART:20260916T065500Z
+DTEND:20260916T082500Z
+SUMMARY:пр. Систематизирующий курс грамматики  иностранного (английского) языка
+LOCATION:3411
+DESCRIPTION:Преподаватель Гамина Елена Петровна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009868
+DTSTAMP:20260916T083500Z
+DTSTART:20260916T083500Z
+DTEND:20260916T100500Z
+SUMMARY:пр. Систематизирующий курс грамматики  иностранного (английского) языка
+LOCATION:3412
+DESCRIPTION:Преподаватель Гамина Елена Петровна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009869
+DTSTAMP:20260917T051500Z
+DTSTART:20260917T051500Z
+DTEND:20260917T064500Z
+SUMMARY:пр. Практикум по культуре речевого общения (английский язык)
+LOCATION:3406
+DESCRIPTION:Преподаватель Дмитриева Марина Ивановна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009870
+DTSTAMP:20260917T065500Z
+DTSTART:20260917T065500Z
+DTEND:20260917T082500Z
+SUMMARY:пр. Практикум по культуре речевого общения (английский язык)
+LOCATION:3406
+DESCRIPTION:Преподаватель Дмитриева Марина Ивановна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009871
+DTSTAMP:20260917T135000Z
+DTSTART:20260917T135000Z
+DTEND:20260917T152000Z
+SUMMARY:лек Методика обучения иностранным языкам
+LOCATION:Вирт.зал 18
+DESCRIPTION:Преподаватель Поспелова Юлия Юрьевна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009872
+DTSTAMP:20260918T051500Z
+DTSTART:20260918T051500Z
+DTEND:20260918T064500Z
+SUMMARY:лек Основы теории иностранного (английского) языка
+LOCATION:Вирт.зал 31
+DESCRIPTION:Преподаватель Ножевникова Елена Геннадьевна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009873
+DTSTAMP:20260918T103000Z
+DTSTART:20260918T103000Z
+DTEND:20260918T120000Z
+SUMMARY:лек Раннее обучение иностранному языку
+LOCATION:Вирт.зал 31
+DESCRIPTION:Преподаватель Ревягина Татьяна Александровна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009874
+DTSTAMP:20260918T135000Z
+DTSTART:20260918T135000Z
+DTEND:20260918T152000Z
+SUMMARY:лек Методика обучения иностранным языкам
+LOCATION:Вирт.зал 29
+DESCRIPTION:Преподаватель Поспелова Юлия Юрьевна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009875
+DTSTAMP:20260919T065500Z
+DTSTART:20260919T065500Z
+DTEND:20260919T082500Z
+SUMMARY:пр. Общая физическая подготовка
+LOCATION:С/з-4к
+DESCRIPTION:Преподаватель , группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009876
+DTSTAMP:20260921T051500Z
+DTSTART:20260921T051500Z
+DTEND:20260921T064500Z
+SUMMARY:пр. Практикум по культуре речевого общения (английский язык)
+LOCATION:3413*
+DESCRIPTION:Преподаватель Дмитриева Марина Ивановна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009877
+DTSTAMP:20260921T065500Z
+DTSTART:20260921T065500Z
+DTEND:20260921T082500Z
+SUMMARY:пр. Практикум по культуре речевого общения (английский язык)
+LOCATION:3413*
+DESCRIPTION:Преподаватель Дмитриева Марина Ивановна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009878
+DTSTAMP:20260922T051500Z
+DTSTART:20260922T051500Z
+DTEND:20260922T064500Z
+SUMMARY:сем Методика обучения иностранным языкам
+LOCATION:3104*
+DESCRIPTION:Преподаватель Бурла Анна Владимировна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009879
+DTSTAMP:20260922T065500Z
+DTSTART:20260922T065500Z
+DTEND:20260922T082500Z
+SUMMARY:пр. Практикум по культуре речевого общения (английский язык)
+LOCATION:3313*
+DESCRIPTION:Преподаватель Дмитриева Марина Ивановна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009880
+DTSTAMP:20260922T135000Z
+DTSTART:20260922T135000Z
+DTEND:20260922T152000Z
+SUMMARY:лек Лингвострановедение
+LOCATION:Вирт.зал 25
+DESCRIPTION:Преподаватель Поспелова Юлия Юрьевна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009881
+DTSTAMP:20260923T065500Z
+DTSTART:20260923T065500Z
+DTEND:20260923T082500Z
+SUMMARY:пр. Лексика педагогического общения (на английском языке)
+LOCATION:3411
+DESCRIPTION:Преподаватель Дмитриева Марина Ивановна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009882
+DTSTAMP:20260923T083500Z
+DTSTART:20260923T083500Z
+DTEND:20260923T100500Z
+SUMMARY:пр. Систематизирующий курс грамматики  иностранного (английского) языка
+LOCATION:3412
+DESCRIPTION:Преподаватель Гамина Елена Петровна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009883
+DTSTAMP:20260923T103000Z
+DTSTART:20260923T103000Z
+DTEND:20260923T120000Z
+SUMMARY:пр. Систематизирующий курс грамматики  иностранного (английского) языка
+LOCATION:3412
+DESCRIPTION:Преподаватель Гамина Елена Петровна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009884
+DTSTAMP:20260924T135000Z
+DTSTART:20260924T135000Z
+DTEND:20260924T152000Z
+SUMMARY:лек Методика обучения иностранным языкам
+LOCATION:Вирт.зал 18
+DESCRIPTION:Преподаватель Поспелова Юлия Юрьевна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009885
+DTSTAMP:20260925T051500Z
+DTSTART:20260925T051500Z
+DTEND:20260925T064500Z
+SUMMARY:лек Основы теории иностранного (английского) языка
+LOCATION:Вирт.зал 31
+DESCRIPTION:Преподаватель Ножевникова Елена Геннадьевна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009886
+DTSTAMP:20260925T103000Z
+DTSTART:20260925T103000Z
+DTEND:20260925T120000Z
+SUMMARY:лек Раннее обучение иностранному языку
+LOCATION:Вирт.зал 31
+DESCRIPTION:Преподаватель Ревягина Татьяна Александровна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009887
+DTSTAMP:20260925T135000Z
+DTSTART:20260925T135000Z
+DTEND:20260925T152000Z
+SUMMARY:лек Методика обучения иностранным языкам
+LOCATION:Вирт.зал 29
+DESCRIPTION:Преподаватель Поспелова Юлия Юрьевна, группа: 24-1БПО9, тема:  
+END:VEVENT
+BEGIN:VEVENT
+UID:55009888
+DTSTAMP:20260926T065500Z
+DTSTART:20260926T065500Z
+DTEND:20260926T082500Z
+SUMMARY:пр. Общая физическая подготовка
+LOCATION:С/з-4к
+DESCRIPTION:Преподаватель , группа: 24-1БПО9, тема:  
+END:VEVENT
+END:VCALENDAR
